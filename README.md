@@ -1,68 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+##  React Hooks
 
-In the project directory, you can run:
+Ejercicio hecho por Juan de la torre instructor de UDEMY en su curso React- La guia completa.
 
-### `npm start`
+# Citas Caninas
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Es una simple Aplicacion creada con React usando Hooks, además guarda la informacion en localStorage.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[Vista previa](https://lh3.googleusercontent.com/QSlrNxAA_bALqK1KIlxa3TIruOWsKKwEMbyNE8svRsaNBoJ8eAe4u56Z0qal-4Icfl4C3tGEtROa0MMoNtaDfcw_-0qI3BjI-qUGESGcdALYCFKwxXkRT5xdWt_8BG6Ra4B0eeRa8q5uXwyAZQ1BJFCgYeqEFJIZbWw1MPP6I-CkjK6065yETh2umL1dbYEp8eee54Z9swpqMSQz2TlKPjab77Y-R8r471OAcb3ZiTqt0mWf883Xvy-BptDXiRjC4tbXkTBkd90Ic3GkYAiDc3HndfKEYGfMUorFM6aXtA-QfDVQKJ96ssOafTBQHhqQq6WDffRrfAdSpC7tiusFa_1VWXfh0krKEd4TSKPrs1zOEP0ZHdCvnuynsl9AnFK_v8FpijlJ3b4DbYskeOSDW5OkNEwOZ-KveBnQuViG1aPkSfZc31BwLCThmHYcco7V9dw1MkVIjkuMJQ-VdfmF2gCZ8uRgXr7jvXp8yQWxKjXYp6ZqjqFC93pIZKWi_hUC1Rvzas6LlL07aiAofhq3_kgfzspn84qA4hR_kjnN45gIoC80Lkxq4b5HmoroZMoY42jW_8ydo4LmWJv4362s0EIj2_rLl22zOQpSTJm3UsdmdSu7e_4IVKImslOakaYTO-NEmYnUWJJ_d85tqRXk0oplXg5sxeoGOvznQHhi09RZUQ-GIsI69c7i2kNlvnme8wze0LeoIK87gpWEwTQUsNuhlYn0Fz0kee5Sg-xuZrPpQFxb=w1168-h657-no)]
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

@@ -1,11 +1,12 @@
 
-##  React Hooks
+#  React Hooks
 
 Ejercicio hecho por Juan de la torre instructor de UDEMY en su curso React- La guia completa.
 
-# Citas Caninas
+## Citas Caninas
 
-Es una simple Aplicacion creada con React usando Hooks, además guarda la informacion en localStorage.
+Es una simple Aplicación creada con React usando Hooks, además guarda la información en localStorage.
 
-[Vista previa](https://lh3.googleusercontent.com/QSlrNxAA_bALqK1KIlxa3TIruOWsKKwEMbyNE8svRsaNBoJ8eAe4u56Z0qal-4Icfl4C3tGEtROa0MMoNtaDfcw_-0qI3BjI-qUGESGcdALYCFKwxXkRT5xdWt_8BG6Ra4B0eeRa8q5uXwyAZQ1BJFCgYeqEFJIZbWw1MPP6I-CkjK6065yETh2umL1dbYEp8eee54Z9swpqMSQz2TlKPjab77Y-R8r471OAcb3ZiTqt0mWf883Xvy-BptDXiRjC4tbXkTBkd90Ic3GkYAiDc3HndfKEYGfMUorFM6aXtA-QfDVQKJ96ssOafTBQHhqQq6WDffRrfAdSpC7tiusFa_1VWXfh0krKEd4TSKPrs1zOEP0ZHdCvnuynsl9AnFK_v8FpijlJ3b4DbYskeOSDW5OkNEwOZ-KveBnQuViG1aPkSfZc31BwLCThmHYcco7V9dw1MkVIjkuMJQ-VdfmF2gCZ8uRgXr7jvXp8yQWxKjXYp6ZqjqFC93pIZKWi_hUC1Rvzas6LlL07aiAofhq3_kgfzspn84qA4hR_kjnN45gIoC80Lkxq4b5HmoroZMoY42jW_8ydo4LmWJv4362s0EIj2_rLl22zOQpSTJm3UsdmdSu7e_4IVKImslOakaYTO-NEmYnUWJJ_d85tqRXk0oplXg5sxeoGOvznQHhi09RZUQ-GIsI69c7i2kNlvnme8wze0LeoIK87gpWEwTQUsNuhlYn0Fz0kee5Sg-xuZrPpQFxb=w1168-h657-no)]
+ ![Vista](https://raw.githubusercontent.com/jesus-khristian/citas-react-hook/master/public/Captura.JPG) 
+
 

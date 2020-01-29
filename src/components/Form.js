@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import Uuid from "uuid/v4";
+import PropTypes from 'prop-types'
+
 
 const Form = ({ addCitas }) => {
   const [cita, handledCita] = useState({
@@ -119,5 +121,9 @@ const Form = ({ addCitas }) => {
     </div>
   );
 };
+
+Form.propTypes = {
+    addCitas: PropTypes.func.isRequired
+}
 
 export default Form;
